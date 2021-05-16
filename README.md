@@ -1,2 +1,2 @@
 # bagian1
-perubahan dilakukan oleh git
+perubahan kode
